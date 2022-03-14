@@ -1,1 +1,1 @@
-# plinco-parte-1
+# pinko1-modelo
